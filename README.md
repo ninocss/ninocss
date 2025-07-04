@@ -1,6 +1,11 @@
 # 💫 About Me:
-     I’m currently working on JabUB<br>     I’m currently learning Discord client dev<br>     All of my projects are available at https://github.com/ninocss?tab=repositories<br>     How to reach me hi@ninoio.xyz<br>
+ - 🔥 I’m currently working on [JabUB](https://github.com/ninocss/JabUB)
 
+ - 🌱 I’m currently learning **Discord client dev**
+
+ - 👨‍💻 All of my projects are available at [https://github.com/ninocss?tab=repositories](https://github.com/ninocss?tab=repositories)
+
+ - 📫 How to reach me **hi@ninoio.xyz**
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ninocss) 
